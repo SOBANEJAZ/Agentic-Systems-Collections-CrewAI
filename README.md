@@ -1,7 +1,4 @@
 # CrewAI Projects Collection
-Currently working on these and will be finshing all of them after admission in lums.
-
-# README of the first I worked on
 # AI Agent Article Writer
 
 To Execute the code, read the main README.md file of the GitHub repository.
